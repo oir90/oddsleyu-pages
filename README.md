@@ -1,2 +1,14 @@
 # oddsleyu-pages
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
